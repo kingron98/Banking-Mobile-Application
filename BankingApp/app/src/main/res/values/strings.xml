@@ -1,0 +1,51 @@
+<resources>
+    // Global
+    <string name="app_name">BankingApp</string>
+    <string name="checkBalance">Check Balance</string>
+    <string name="updateProfile">Update Profile</string>
+    <string name="transferFunds">Transfer Funds</string>
+    <string name="transactions">Transactions</string>
+    <string name="bankAccLabel">Bank Acc No:</string>
+
+    // LoginActivity
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <string name="bankSlogan">Lan Zai Bank – Simply . . . Better Banking</string>
+
+    // MainActivity
+    <string name="welcomeMsg">Welcome Back,</string>
+    <string name="mainQuestion">What would you like to do?</string>
+
+    // CheckBalanceActivity
+    <string name="accountInfo">Bank Account Information</string>
+    <string name="availableBalance">Available Balance</string>
+
+    // UpdateProfileActivity
+    <string name="updateDesc">Make changes to your phone number and email. Please enter correct account password to confirm changes.</string>
+    <string name="phoneNumber">Phone Number</string>
+    <string name="email">Email</string>
+    <string name="passwordConfirm">Confirm Password</string>
+    <string name="confirm">Confirm</string>
+    <string name="updateMessage">In case of changing/closing account, please go to the head office.</string>
+
+    // TransferFundsActivity
+    <string name="continueMessage">Continue</string>
+    <string name="bankAccNo">Bank Account No</string>
+    <string name="amount">Amount</string>
+    <string name="transferMessage">Transfer funds to another account. Please make sure bank account number entered is correct and exists.</string>
+    <string name="balanceUSD">Available Balance(USD): </string>
+    <string name="transferNotice">All transactions will be made in USD currency only.</string>
+
+    // FundsApproveDeclineActivity
+    <string name="transferToLabel">Transferring Funds to: </string>
+    <string name="decline">Decline</string>
+    <string name="approve">Approve</string>
+
+    // TransactionActivity
+    <string name="idCol">ID</string>
+    <string name="senderCol">SENDER NAME</string>
+    <string name="recpCol">RECIPIENT NAME</string>
+    <string name="amountCol">AMOUNT</string>
+    <string name="empty">No Records</string>
+</resources>
